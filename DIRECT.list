@@ -1,0 +1,32 @@
+# DIRECT
+# Count: 30
+DOMAIN,mtalk.google.com
+DOMAIN,mobile-gtalk.l.google.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+DOMAIN,alt9-mtalk.google.com
+DOMAIN-SUFFIX,mobile-gtalk.l.google.com
+DOMAIN,update5.dota2.wmsj.cn
+DOMAIN,update2.dota2.wmsj.cn
+DOMAIN,update6.dota2.wmsj.cn
+DOMAIN,update3.dota2.wmsj.cn
+DOMAIN,update1.dota2.wmsj.cn
+DOMAIN,update4.dota2.wmsj.cn
+DOMAIN,update5.csgo.wmsj.cn
+DOMAIN,update2.csgo.wmsj.cn
+DOMAIN,update4.csgo.wmsj.cn
+DOMAIN,update3.csgo.wmsj.cn
+DOMAIN,update6.csgo.wmsj.cn
+DOMAIN,update1.csgo.wmsj.cn
+DOMAIN,st.dl.bscstorage.net
+IP-CIDR,192.168.0.0/16
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,127.0.0.0/8
+IP-CIDR,100.64.0.0/10
