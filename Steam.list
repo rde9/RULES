@@ -84,6 +84,8 @@ DOMAIN-SUFFIX,cs.steampowered.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,edgecast.steamstatic.com
 DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steam-content-dnld-1.apac-1-cdn.cqloud.com
 DOMAIN-SUFFIX,steam-content-dnld-1.eu-c1-cdn.cqloud.com
 DOMAIN-SUFFIX,steam-content-dnld-1.qwilted-cds.cqloud.com
