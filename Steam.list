@@ -1,5 +1,4 @@
 # 🎮 Steam
-# Count: 87
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
 DOMAIN,steammobile.akamaized.net
 DOMAIN,steampipe-kr.akamaized.net
@@ -71,7 +70,6 @@ DOMAIN,steam.apac.qtlglb.com
 DOMAIN,edge.steam-dns.top.comcast.net
 DOMAIN,edge.steam-dns-2.top.comcast.net
 DOMAIN,steam.naeu.qtlglb.com
-DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steam.ix.asn.au
 DOMAIN,steam.eca.qtlglb.com
 DOMAIN,steam.cdn.on.net

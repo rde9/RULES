@@ -1,7 +1,5 @@
 # DIRECT
-# Count: 30
 DOMAIN,mtalk.google.com
-DOMAIN,mobile-gtalk.l.google.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com
@@ -25,10 +23,3 @@ DOMAIN,update3.csgo.wmsj.cn
 DOMAIN,update6.csgo.wmsj.cn
 DOMAIN,update1.csgo.wmsj.cn
 DOMAIN,st.dl.bscstorage.net
-# PT
-DOMAIN-SUFFIX,bemani.cc
-DOMAIN-SUFFIX,jpopsuki.eu
-DOMAIN-SUFFIX,komani.moe
-# OTHERS
-DOMAIN-SUFFIX,yhmc.cc
-DOMAIN-SUFFIX,yhme.cc
